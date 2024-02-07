@@ -1,7 +1,7 @@
 Javascript React Tutorial
 
-website - first tutorial
-card - Making profile tutorial
-Props - Doing CSS
-props - using interface to handling properties
-Rendering - using conditional to do the project
+website - first tutorial \n
+card - Making profile tutorial \n
+Props - Doing CSS \n
+props - using interface to handling properties \n
+Rendering - using conditional to do the project \n
