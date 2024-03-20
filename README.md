@@ -13,3 +13,5 @@ ColorPicker - a real app to handle the hook and onchangeevent <br/>
 Updaterfunction - a function that using for setting anything into queue list which as c => c + 1 <br/>
 UpdateObjinState - using state to update the input with number and string <br/>
 UpdateArrinState - using state to update or remove the index in Array </br>
+UpdateArrOfObjinState - using state to update array of object </br>
+ToDo List App - Work on creating a todo app </br>
